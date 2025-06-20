@@ -1,10 +1,7 @@
 
-```markdown
 # 🚀 3DOSA MAKE BOT — Automate Your MangoNet Tasks
 
 A fully automated bot to handle **daily check-ins**, **API key generation**, and **node connection** for the [MangoNet](https://mangonet.io/) testnet — with **multi-account support and proxy rotation** built-in.
-
----
 
 ## 🛠️ Features
 
@@ -20,20 +17,6 @@ A fully automated bot to handle **daily check-ins**, **API key generation**, and
 ---
 
 ## 📁 Project Structure
-
-```
-
-3DOSA-MAKE-BOT/
-│
-├── bot.py               # Main bot script
-├── accounts.json        # Your wallet/email list
-├── proxy.txt            # Optional proxy file
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
-
-````
-
----
 
 ## ⚙️ How to Use
 
@@ -114,14 +97,3 @@ Have a suggestion, bug report, or idea?
 * Fork the repo & submit a Pull Request
 * Or chat with us on [Zona Airdrop Telegram](https://t.me/ZonaAirdrop)
 
----
-
-> Created with ❤️ by the **ZonaAirdrop** community
-> Helping MangoNet testers automate and earn more!
-
-```
-
----
-
-✅ Siap dipakai langsung sebagai `README.md`. Kalau kamu mau saya kirim ini sebagai file `.md` atau bantu upload ke repo GitHub-mu, tinggal bilang aja!
-```
