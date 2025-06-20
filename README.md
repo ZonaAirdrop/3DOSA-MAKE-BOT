@@ -14,10 +14,6 @@ A fully automated bot to handle **daily check-ins**, **API key generation**, and
 | Proxy Rotation              | Supports public & private proxies via `proxy.txt` |
 | Smart Proxy Handling        | Detects dead proxies and skips them           |
 
----
-
-## 📁 Project Structure
-
 ## ⚙️ How to Use
 
 ### 1. Clone the Repository
